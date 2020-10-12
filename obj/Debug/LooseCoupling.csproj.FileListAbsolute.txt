@@ -1,0 +1,6 @@
+C:\CodeProjects\LooseCoupling\bin\Debug\LooseCoupling.exe.config
+C:\CodeProjects\LooseCoupling\bin\Debug\LooseCoupling.exe
+C:\CodeProjects\LooseCoupling\bin\Debug\LooseCoupling.pdb
+C:\CodeProjects\LooseCoupling\obj\Debug\LooseCoupling.csprojAssemblyReference.cache
+C:\CodeProjects\LooseCoupling\obj\Debug\LooseCoupling.exe
+C:\CodeProjects\LooseCoupling\obj\Debug\LooseCoupling.pdb
